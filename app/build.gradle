@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "me.loterio.farfetchdemo"
+        applicationId "com.fartech.fartechshop"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

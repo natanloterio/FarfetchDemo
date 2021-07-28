@@ -1,4 +1,4 @@
-package me.loterio.farfetchdemo
+package com.fartech.fartechshop
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
